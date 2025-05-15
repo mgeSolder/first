@@ -1,0 +1,33 @@
+﻿  tested.cpp
+C:\Users\User\source\repos\tested\tested\tested.cpp(24,26): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\User\source\repos\tested\tested\tested.cpp(24,26): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\tested\tested\tested.cpp(24,26): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\tested\tested\tested.cpp(24,32): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\User\source\repos\tested\tested\tested.cpp(24,32): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\tested\tested\tested.cpp(24,32): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\tested\tested\tested.cpp(24,39): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\User\source\repos\tested\tested\tested.cpp(24,39): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\tested\tested\tested.cpp(24,39): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\tested\tested\tested.cpp(25,26): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\User\source\repos\tested\tested\tested.cpp(25,26): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\tested\tested\tested.cpp(25,26): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\tested\tested\tested.cpp(25,32): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\User\source\repos\tested\tested\tested.cpp(25,32): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\tested\tested\tested.cpp(25,32): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\tested\tested\tested.cpp(25,39): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\User\source\repos\tested\tested\tested.cpp(25,39): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\tested\tested\tested.cpp(25,39): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\tested\tested\tested.cpp(26,26): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\User\source\repos\tested\tested\tested.cpp(26,26): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\tested\tested\tested.cpp(26,26): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\tested\tested\tested.cpp(26,32): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\User\source\repos\tested\tested\tested.cpp(26,32): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\tested\tested\tested.cpp(26,32): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\tested\tested\tested.cpp(26,39): warning C4838: Преобразование из "int" в "char" требует сужающего преобразования.
+C:\Users\User\source\repos\tested\tested\tested.cpp(26,39): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\User\source\repos\tested\tested\tested.cpp(26,39): warning C4309: инициализация: усечение константного значения
+C:\Users\User\source\repos\tested\tested\tested.cpp(35,36): warning C4474: "printf" : для строки формата передано слишком много аргументов
+      C:\Users\User\source\repos\tested\tested\tested.cpp(35,36):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+C:\Users\User\source\repos\tested\tested\tested.cpp(50,1): error C4700: использована неинициализированная локальная переменная "player"
